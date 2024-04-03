@@ -50,6 +50,15 @@
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
+
+<!-- Featured Projects Section -->
+<h3 align="left"><font size="+2" face="Verdana" color="#1F618D">Featured Projects:</font></h3>
+- <font face="Arial"><b>Terraform-Hard-Provisioning:</b></font> Automated deployment of web servers with DNS configuration using Terraform.<br>
+- <font face="Arial"><b>Terraform-AWS-Variable-Driven-Infrastructure:</b></font> Provisioning AWS resources including VPCs, subnets, instances, and more using Terraform variables.<br>
+- <font face="Arial"><b>Terraform-Advance-Multi-Tier-Application-Version-Deployment-Automation:</b></font> Automated deployment of multi-tier applications with version control using Terraform and AWS S3.
+- <font face="Arial"><b>Ansible-Automated-Web-Server-Deployment</b></font> Automated deployment of webserver applications with Multiple Subdomain Configuration using Ansible and AWS.
+
+
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">

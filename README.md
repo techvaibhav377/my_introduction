@@ -61,4 +61,4 @@
 
 <p align="left"> <img src="https://raw.githubusercontent.com/FresonDev/cdnPublic/refs/heads/main/github-user-contribution.svg" alt="contributions" /> </p>
 
-- 📫 How to reach me **[https://linkedin.com/in/techvaibhav](Click Here)**
+- 📫 How to reach me **[https://linkedin.com/in/techvaibhav] (Click Here)**

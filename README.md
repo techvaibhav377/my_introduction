@@ -59,5 +59,6 @@
 <p align="left">
 </p>
 
-- 💬 Ask me about **DevOps**
+<p align="left"> <img src="https://raw.githubusercontent.com/FresonDev/cdnPublic/refs/heads/main/github-user-contribution.svg" alt="contributions" /> </p>
+
 - 📫 How to reach me **[https://techvaibhav.site](techvaibhav.site)**

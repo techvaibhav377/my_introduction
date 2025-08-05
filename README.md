@@ -219,22 +219,7 @@ I'm a **Dynamic Associate Solution Architect** and seasoned **DevSecOps professi
 - Network policies and service mesh security
 - Compliance reporting and audit trails
 
----
 
-## 📈 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techvaibhav377&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techvaibhav377&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techvaibhav377&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techvaibhav377&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
-</div>
 
 ---
 

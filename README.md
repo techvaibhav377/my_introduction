@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=techvaibhav377&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-brightgreen?style=flat-square&logo=calendar" alt="Experience" />
+  <img src="https://img.shields.io/badge/Experience-4.0%2B%20Years-brightgreen?style=flat-square&logo=calendar" alt="Experience" />
   <img src="https://img.shields.io/badge/Associate-Solution%20Architect-blue?style=flat-square&logo=architect" alt="Solution Architect" />
   <img src="https://img.shields.io/badge/DevSecOps-Engineer-green?style=flat-square&logo=devdotto" alt="DevSecOps Engineer" />
   <img src="https://img.shields.io/badge/Multi--Cloud-Specialist-orange?style=flat-square&logo=cloud" alt="Multi-Cloud" />

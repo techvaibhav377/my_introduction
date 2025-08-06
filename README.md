@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 
-I'm a **Dynamic Associate Solution Architect** and seasoned **DevSecOps professional** with **2.5+ years** of hands-on experience in designing secure, scalable multi-cloud architectures. I specialize in building **cloud-native solutions** that are secure, cost-effective, and highly available.
+I'm a **Dynamic Associate Solution Architect** and seasoned **DevSecOps professional** with **4.0+ years** of hands-on experience in designing secure, scalable multi-cloud architectures. I specialize in building **cloud-native solutions** that are secure, cost-effective, and highly available.
 
 ### 🎯 What I Bring to the Table
 - 🏗️ **Multi-Cloud Architecture** expertise across AWS, Azure, and GCP
